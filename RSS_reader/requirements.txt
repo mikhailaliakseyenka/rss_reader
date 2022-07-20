@@ -1,0 +1,11 @@
+For the correct operation of the program, please install all these libraries:
+1) argparse
+2) requests
+3) logging
+4) dateutil (pip install python-dateutil)
+5) bs4
+6) json
+7) fpdf
+8) lxml
+
+Thank you have a nice use.
